@@ -29,14 +29,3 @@ This project leverages **blockchain technology** to create a **secure, transpare
 3. Organization and charity details are **stored in the application** with a **generated hash value**.
 4. Transactions are executed between organizations and charities, generating a unique **transaction hash**.
 5. Once all transactions are mined, a **new block is added** to the blockchain, ensuring transparency and security.
-
-## **Demonstration**
-🎥 **Watch the project in action:**
-
-<div align="center">
-  <a href="[https://youtu.be/4CIUYSnVEIo](https://youtu.be/OyTTOAcK4BY?si=JtVf8_Ua1MKf8r9M)">
-    <img src="http://img.youtube.com/vi/4CIUYSnVEIo/0.jpg" width="30%">
-  </a>  
-  <br>
-  <a href="[https://youtu.be/4CIUYSnVEIo](https://youtu.be/OyTTOAcK4BY?si=JtVf8_Ua1MKf8r9M)">Click here to watch the demo</a>
-</div>
