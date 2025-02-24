@@ -1,46 +1,42 @@
-# Charity Blockchain Project
+# **Charity Blockchain Platform**
 
-### Problem Statement
-- There are no platforms that can be used by charities to ensure security while providing accessibility to maximum people.
-- The biggest problem faced is transparency, where people can rightly exercise their Right To Information by asking for a record of expenditure by the charity
-- Even if such applications are available, they are inaccessible to smaller organisations with a good user interface for ease of access.
+## **Problem Statement**
+Charities often struggle with security and accessibility in financial transactions. The major challenges include:
+- Lack of a dedicated platform ensuring security and transparency.
+- Absence of a mechanism that allows people to exercise their Right to Information and verify expenditure records.
+- Existing solutions are either inaccessible to smaller organizations or lack a user-friendly interface.
 
-### Requirements of the Project
- - **Solidity Web3**
-	* Solidity provides Inheritance properties in contracts including multiple level inheritance properties.
- - **Metamask**
-	* To have an easy-to-use and secure wallet service, the platform connects to users' MetaMask automatically.
- - **Node.js**
-	* Node.js is used a backend for our application. It records transactions communicates between the Applications and integrates frontend.
- - **Ganache**
-	* Ganache provides the GUI-based local Ethereum blockchain development environment to deploy and test contracts.
+## **Project Overview**
+This project leverages **blockchain technology** to create a **secure, transparent, and accessible platform** for charities. By integrating smart contracts, organizations can ensure verifiable and immutable transaction records.
 
-### Project Working
-* A metamask connection is required to run the application for any transaction.
-* A ganache RPC Server is run with metamask as the wallet, using the node.js interface.
-* Charity and organisation details are saved in the application, and a hash value is generated
-* A transaction is carried out, between organisation and charity and transaction hash is generated for each transaction
-* A block is created, when the user mines all the transactions updates.
+## **Technology Stack**
+### **1. Solidity & Web3**
+- Implements smart contracts with **multiple-level inheritance** features.
+- Facilitates secure and transparent transactions.
 
+### **2. MetaMask**
+- Enables users to connect and manage transactions seamlessly through a **secure wallet service**.
 
-### YouTube Video
+### **3. Node.js**
+- Serves as the **backend**, handling transaction records and communication between the frontend and blockchain.
 
-<div align="center"> <a href="https://youtu.be/4CIUYSnVEIo"><img src="http://img.youtube.com/vi/4CIUYSnVEIo/0.jpg" width="30%"></a> <br> <a href="https://youtu.be/4CIUYSnVEIo">Demonstration Video</a></div>
-<br><br>
+### **4. Ganache**
+- Provides a **local Ethereum blockchain** environment to deploy and test contracts before production.
 
+## **How It Works**
+1. Users must connect to **MetaMask** for authentication and transactions.
+2. A **Ganache RPC server** is launched, with MetaMask acting as the wallet.
+3. Organization and charity details are **stored in the application** with a **generated hash value**.
+4. Transactions are executed between organizations and charities, generating a unique **transaction hash**.
+5. Once all transactions are mined, a **new block is added** to the blockchain, ensuring transparency and security.
 
-### License
+## **Demonstration**
+🎥 **Watch the project in action:**
 
-	Copyright (C) 2020 Harsh Sanjay Agrawal
-
-	Licensed under the Apache License, Version 2.0 (the "License");
-	you may not use this file except in compliance with the License.
-	You may obtain a copy of the License at
-
-	   http://www.apache.org/licenses/LICENSE-2.0
-
-	Unless required by applicable law or agreed to in writing, software
-	distributed under the License is distributed on an "AS IS" BASIS,
-	WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-	See the License for the specific language governing permissions and
-	limitations under the License.
+<div align="center">
+  <a href="https://youtu.be/4CIUYSnVEIo">
+    <img src="http://img.youtube.com/vi/4CIUYSnVEIo/0.jpg" width="30%">
+  </a>  
+  <br>
+  <a href="https://youtu.be/4CIUYSnVEIo">Click here to watch the demo</a>
+</div>
