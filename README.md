@@ -38,5 +38,5 @@ This project leverages **blockchain technology** to create a **secure, transpare
     <img src="http://img.youtube.com/vi/4CIUYSnVEIo/0.jpg" width="30%">
   </a>  
   <br>
-  <a href="https://youtu.be/4CIUYSnVEIo">Click here to watch the demo</a>
+  <a href="[https://youtu.be/4CIUYSnVEIo](https://youtu.be/OyTTOAcK4BY?si=JtVf8_Ua1MKf8r9M)">Click here to watch the demo</a>
 </div>
